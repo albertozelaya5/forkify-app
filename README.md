@@ -16,7 +16,7 @@ Forkify is a modern recipe search and upload app built with **vanilla JavaScript
 - HTML5 + CSS3
 - Parcel 2 bundler
 - Forkify API
-- 
+  
 ## 📦 Setup
 ```
 git clone https://github.com/your-username/forkify.git
@@ -25,5 +25,5 @@ npm install
 npm start
 ```
 
-👤 Author
+👤 Authors
 Alberto Zelaya - Jonas Schmedtmann(Curse Author)
